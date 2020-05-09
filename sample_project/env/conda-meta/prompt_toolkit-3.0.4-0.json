@@ -1,0 +1,36 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "prompt-toolkit >=3.0.4,<3.0.5.0a0"
+  ],
+  "extracted_package_dir": "/opt/miniconda3/pkgs/prompt_toolkit-3.0.4-0",
+  "features": "",
+  "files": [],
+  "fn": "prompt_toolkit-3.0.4-0.conda",
+  "legacy_bz2_md5": "39ffe2839b95b417717cbe14c4c51472",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/miniconda3/pkgs/prompt_toolkit-3.0.4-0",
+    "type": 1
+  },
+  "md5": "72827a3dd6544db05ff3b5d5be683a35",
+  "name": "prompt_toolkit",
+  "noarch": "generic",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/prompt_toolkit-3.0.4-0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4c8c2755bf67e422c10698ee7b2c65f4f7746c52c6751910e49b15234be5b50f",
+  "size": 11281,
+  "subdir": "noarch",
+  "timestamp": 1585253410884,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/prompt_toolkit-3.0.4-0.conda",
+  "version": "3.0.4"
+}

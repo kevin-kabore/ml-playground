@@ -1,0 +1,14 @@
+prefix=/Users/kevinkabore/Desktop/machine_learning/ml_course_ztm/sample_project/env
+exec_prefix=/Users/kevinkabore/Desktop/machine_learning/ml_course_ztm/sample_project/env
+libdir=/Users/kevinkabore/Desktop/machine_learning/ml_course_ztm/sample_project/env/lib
+includedir=/Users/kevinkabore/Desktop/machine_learning/ml_course_ztm/sample_project/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 22.1.16
+Requires:
+Requires.private: zlib, libpng
+Libs: -L${libdir} -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2
